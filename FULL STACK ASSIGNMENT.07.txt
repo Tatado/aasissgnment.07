@@ -1,0 +1,17 @@
+1.
+The try block  test a block of code for errors. 
+The except block lets us to handle the error. The else block lets to execute code when there is no error.
+2.
+Syntax errors and Exceptions.
+3.
+The raise keyword is used to raise an exception.
+It defines what kind of error to raise, and the text to print to the user.
+4.
+Assert statement takes an expression and optional message.
+ Assert statement is used to check types, values of argument and the output of the function. 
+Assert statement is used as debugging tool as it halts the program at the point where an error occurs.
+5.
+In python the with keyword is used when working with unmanaged resources (like file streams).
+ It is similar to the using statement in VB.NET and C#. 
+It allows you to ensure that a resource is "cleaned up" when the code that uses it finishes running,
+ even if exceptions are thrown.
